@@ -1,4 +1,5 @@
-// Define a class student having attributes name and roll no..Derive a class test having mark of two subjects.Define a class sport having attributes to store sports mark.Derive a class result from test and sport to calculate total marks and average.
+// Define a class student having attributes name and roll no..Derive a class test having mark of two subjects.Define a class sport having attributes to store sports 
+// mark.Derive a class result from test and sport to calculate total marks and average.
 #include <bits/stdc++.h>
 using namespace std;
 class student
