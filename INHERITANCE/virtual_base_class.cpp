@@ -1,4 +1,5 @@
-// Define a class student having attributes name and roll no..Derive a class test having mark of two subjects.Derive a class sport from student class having attributes to store sports mark.Derive a class result from test and sport to calculate total marks and average. Do this problem using virtual base class.
+// Define a class student having attributes name and roll no..Derive a class test having mark of two subjects.Derive a class sport from student class having 
+// attributes to store sports mark.Derive a class result from test and sport to calculate total marks and average. Do this problem using virtual base class.
 #include <bits/stdc++.h>
 using namespace std;
 class student
