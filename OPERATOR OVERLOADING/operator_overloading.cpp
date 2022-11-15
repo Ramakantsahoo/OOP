@@ -28,6 +28,7 @@ int main()
 {
     Complex c1(2, 3);
     Complex c2(4, 5);
+    c1.display();
     c2.display();
     Complex c3(4, 6), c4;
     c4 = c1 + c2 + c3;
