@@ -1,4 +1,6 @@
-// Electricity board charges 60 paisa per unit for the first hundred units, 80 paisa per unit for next 200 units and 90 paisa per unit beyond 300 units.All the users are charged minimum of 50 and if the total amount is more than 300 then the additional surcharge of 15% is added.Write a program to read name & no. of units ,print the charges with users name.
+// Electricity board charges 60 paisa per unit for the first hundred units, 80 paisa per unit for next 200 units and 90 paisa per unit beyond 300 units.All the users
+// are charged minimum of 50 and if the total amount is more than 300 then the additional surcharge of 15% is added.Write a program to read name & no. of units ,print 
+// the charges with users name.
 #include <bits/stdc++.h>
 using namespace std;
 class Electricity
