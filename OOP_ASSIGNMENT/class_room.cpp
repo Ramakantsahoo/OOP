@@ -1,4 +1,5 @@
-//  Design a class room having data members height ,width ,and length. Calculate the area and volume of the room.Use constructor for initialization of data members.Use copyconstructor for calculating the area of two similar rooms.
+//  Design a class room having data members height ,width ,and length. Calculate the area and volume of the room.Use constructor for initialization of data members.
+// Use copyconstructor for calculating the area of two similar rooms.
 #include<bits/stdc++.h>
 using namespace std;
 class room{
