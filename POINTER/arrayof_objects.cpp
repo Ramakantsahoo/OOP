@@ -1,3 +1,4 @@
+// Array of objects
 #include <bits/stdc++.h>
 using namespace std;
 class items
