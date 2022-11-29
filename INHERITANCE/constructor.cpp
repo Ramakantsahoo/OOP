@@ -22,11 +22,11 @@ public:
     B(int x)
     {
         b = x;
+        cout<<"constructor of class B called."<<endl;
     }
     void display2()
     {
         cout << b << endl;
-        cout<<"constructor of class B called."<<endl;
     }
 };
 class C : public A, public B
