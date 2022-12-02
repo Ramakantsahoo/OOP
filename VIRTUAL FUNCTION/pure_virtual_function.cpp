@@ -1,5 +1,5 @@
 // Pure virtual function and abstract base class.
-// Abstract base class is a base class where atleast one pure virtual fuction is their.
+// Abstract base class is a base class where atleast one pure virtual fuction is there.
 #include <bits/stdc++.h>
 using namespace std;
 class CWH
