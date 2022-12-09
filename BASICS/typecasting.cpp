@@ -1,4 +1,6 @@
 // Typecasting
+// https://www.geeksforgeeks.org/type-conversion-in-c/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
