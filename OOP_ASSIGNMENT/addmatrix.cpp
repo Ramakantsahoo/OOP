@@ -1,6 +1,6 @@
 // Construct a 2D array fo size m*n using constructor size of the matrix is to be given by the user .Use copy constructor to create a copied object and write required
 // member functions to calculate sum of two matrices and display their result.
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 int c=1;
 class matrix{
