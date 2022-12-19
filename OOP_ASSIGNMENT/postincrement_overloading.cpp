@@ -1,5 +1,5 @@
 // Postincrement operator overloading.Using member function.
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 class Number{
     int a,b;
