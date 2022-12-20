@@ -1,5 +1,5 @@
 // Take input as no. of observations and all observations and calculate mean,variance and standard deviation
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 class calculation{
     int n;
